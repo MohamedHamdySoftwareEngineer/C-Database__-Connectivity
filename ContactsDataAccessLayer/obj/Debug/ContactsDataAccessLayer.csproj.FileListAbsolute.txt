@@ -1,0 +1,18 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

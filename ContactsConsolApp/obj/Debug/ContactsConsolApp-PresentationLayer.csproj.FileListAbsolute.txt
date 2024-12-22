@@ -1,0 +1,39 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsConsolApp.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CopyComplete
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe.config
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsConsolApp.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CopyComplete
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp.exe
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp.exe
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe.config
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsConsolApp.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Mega Store\Documents\Visual Studio 2022\MyProjects\C++ Hadod\18 - C# and Database\(12) Project __ 3 Tier Architecture\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CopyComplete
